@@ -4,3 +4,11 @@
   text-align: center;
   font-family: "Poppins", sans-serif;
 }
+
+td {
+  border: 1px solid black;
+}
+
+.main {
+  text-align: center;
+}

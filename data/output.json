@@ -1,0 +1,4370 @@
+[
+    {
+        "mot;": "abattre;"
+    },
+    {
+        "mot;": "abri;"
+    },
+    {
+        "mot;": "absence;"
+    },
+    {
+        "mot;": "absolu;"
+    },
+    {
+        "mot;": "absolument;"
+    },
+    {
+        "mot;": "accent;"
+    },
+    {
+        "mot;": "accepter;"
+    },
+    {
+        "mot;": "accompagner;"
+    },
+    {
+        "mot;": "accomplir;"
+    },
+    {
+        "mot;": "accord;"
+    },
+    {
+        "mot;": "accorder;"
+    },
+    {
+        "mot;": "accrocher;"
+    },
+    {
+        "mot;": "accuser;"
+    },
+    {
+        "mot;": "acheter;"
+    },
+    {
+        "mot;": "achever;"
+    },
+    {
+        "mot;": "acte;"
+    },
+    {
+        "mot;": "action;"
+    },
+    {
+        "mot;": "admettre;"
+    },
+    {
+        "mot;": "adresser;"
+    },
+    {
+        "mot;": "affaire;"
+    },
+    {
+        "mot;": "affirmer;"
+    },
+    {
+        "mot;": "âge;"
+    },
+    {
+        "mot;": "âgé;"
+    },
+    {
+        "mot;": "agent;"
+    },
+    {
+        "mot;": "agir;"
+    },
+    {
+        "mot;": "agiter;"
+    },
+    {
+        "mot;": "ah;"
+    },
+    {
+        "mot;": "aide;"
+    },
+    {
+        "mot;": "aider;"
+    },
+    {
+        "mot;": "aile;"
+    },
+    {
+        "mot;": "ailleurs;"
+    },
+    {
+        "mot;": "aimer;"
+    },
+    {
+        "mot;": "ainsi;"
+    },
+    {
+        "mot;": "air;"
+    },
+    {
+        "mot;": "ajouter;"
+    },
+    {
+        "mot;": "aller;"
+    },
+    {
+        "mot;": "allumer;"
+    },
+    {
+        "mot;": "alors;"
+    },
+    {
+        "mot;": "âme;"
+    },
+    {
+        "mot;": "amener;"
+    },
+    {
+        "mot;": "ami;"
+    },
+    {
+        "mot;": "amour;"
+    },
+    {
+        "mot;": "amuser;"
+    },
+    {
+        "mot;": "an;"
+    },
+    {
+        "mot;": "ancien;"
+    },
+    {
+        "mot;": "anglais;"
+    },
+    {
+        "mot;": "anglais;"
+    },
+    {
+        "mot;": "angoisse;"
+    },
+    {
+        "mot;": "animal;"
+    },
+    {
+        "mot;": "animer;"
+    },
+    {
+        "mot;": "année;"
+    },
+    {
+        "mot;": "annoncer;"
+    },
+    {
+        "mot;": "apercevoir;"
+    },
+    {
+        "mot;": "apparaître;"
+    },
+    {
+        "mot;": "apparence;"
+    },
+    {
+        "mot;": "appartement;"
+    },
+    {
+        "mot;": "appartenir;"
+    },
+    {
+        "mot;": "appel;"
+    },
+    {
+        "mot;": "appeler;"
+    },
+    {
+        "mot;": "apporter;"
+    },
+    {
+        "mot;": "apprendre;"
+    },
+    {
+        "mot;": "approcher;"
+    },
+    {
+        "mot;": "appuyer;"
+    },
+    {
+        "mot;": "après;"
+    },
+    {
+        "mot;": "après;"
+    },
+    {
+        "mot;": "arbre;"
+    },
+    {
+        "mot;": "argent;"
+    },
+    {
+        "mot;": "arme;"
+    },
+    {
+        "mot;": "armée;"
+    },
+    {
+        "mot;": "armer;"
+    },
+    {
+        "mot;": "arracher;"
+    },
+    {
+        "mot;": "arrêter;"
+    },
+    {
+        "mot;": "arrière;"
+    },
+    {
+        "mot;": "arrivée;"
+    },
+    {
+        "mot;": "arriver;"
+    },
+    {
+        "mot;": "art;"
+    },
+    {
+        "mot;": "article;"
+    },
+    {
+        "mot;": "as;"
+    },
+    {
+        "mot;": "aspect;"
+    },
+    {
+        "mot;": "asseoir;"
+    },
+    {
+        "mot;": "assez;"
+    },
+    {
+        "mot;": "assister;"
+    },
+    {
+        "mot;": "assurer;"
+    },
+    {
+        "mot;": "attacher;"
+    },
+    {
+        "mot;": "attaquer;"
+    },
+    {
+        "mot;": "atteindre;"
+    },
+    {
+        "mot;": "attendre;"
+    },
+    {
+        "mot;": "attention;"
+    },
+    {
+        "mot;": "attirer;"
+    },
+    {
+        "mot;": "attitude;"
+    },
+    {
+        "mot;": "au;"
+    },
+    {
+        "mot;": "aucun;"
+    },
+    {
+        "mot;": "aucun;"
+    },
+    {
+        "mot;": "aujourd'hui;"
+    },
+    {
+        "mot;": "auprès;"
+    },
+    {
+        "mot;": "auquel;"
+    },
+    {
+        "mot;": "aussi;"
+    },
+    {
+        "mot;": "aussitôt;"
+    },
+    {
+        "mot;": "autant;"
+    },
+    {
+        "mot;": "auteur;"
+    },
+    {
+        "mot;": "autorité;"
+    },
+    {
+        "mot;": "autour;"
+    },
+    {
+        "mot;": "autre;"
+    },
+    {
+        "mot;": "autre;"
+    },
+    {
+        "mot;": "autrefois;"
+    },
+    {
+        "mot;": "autrement;"
+    },
+    {
+        "mot;": "avance;"
+    },
+    {
+        "mot;": "avancer;"
+    },
+    {
+        "mot;": "avant;"
+    },
+    {
+        "mot;": "avant;"
+    },
+    {
+        "mot;": "avec;"
+    },
+    {
+        "mot;": "avec;"
+    },
+    {
+        "mot;": "avenir;"
+    },
+    {
+        "mot;": "aventure;"
+    },
+    {
+        "mot;": "avis;"
+    },
+    {
+        "mot;": "avoir;"
+    },
+    {
+        "mot;": "avouer;"
+    },
+    {
+        "mot;": "baisser;"
+    },
+    {
+        "mot;": "banc;"
+    },
+    {
+        "mot;": "bande;"
+    },
+    {
+        "mot;": "barbe;"
+    },
+    {
+        "mot;": "bas;"
+    },
+    {
+        "mot;": "bas;"
+    },
+    {
+        "mot;": "bas;"
+    },
+    {
+        "mot;": "bataille;"
+    },
+    {
+        "mot;": "battre;"
+    },
+    {
+        "mot;": "beau;"
+    },
+    {
+        "mot;": "beau;"
+    },
+    {
+        "mot;": "beau;"
+    },
+    {
+        "mot;": "beaucoup;"
+    },
+    {
+        "mot;": "beauté;"
+    },
+    {
+        "mot;": "beaux;"
+    },
+    {
+        "mot;": "besoin;"
+    },
+    {
+        "mot;": "bête;"
+    },
+    {
+        "mot;": "bien;"
+    },
+    {
+        "mot;": "bien;"
+    },
+    {
+        "mot;": "bientôt;"
+    },
+    {
+        "mot;": "billet;"
+    },
+    {
+        "mot;": "blanc;"
+    },
+    {
+        "mot;": "blanc;"
+    },
+    {
+        "mot;": "bleu;"
+    },
+    {
+        "mot;": "blond;"
+    },
+    {
+        "mot;": "boire;"
+    },
+    {
+        "mot;": "bois;"
+    },
+    {
+        "mot;": "bon;"
+    },
+    {
+        "mot;": "bon;"
+    },
+    {
+        "mot;": "bonheur;"
+    },
+    {
+        "mot;": "bord;"
+    },
+    {
+        "mot;": "bouche;"
+    },
+    {
+        "mot;": "bout;"
+    },
+    {
+        "mot;": "branche;"
+    },
+    {
+        "mot;": "bras;"
+    },
+    {
+        "mot;": "briller;"
+    },
+    {
+        "mot;": "briser;"
+    },
+    {
+        "mot;": "bruit;"
+    },
+    {
+        "mot;": "brûler;"
+    },
+    {
+        "mot;": "brusquement;"
+    },
+    {
+        "mot;": "bureau;"
+    },
+    {
+        "mot;": "but;"
+    },
+    {
+        "mot;": "ça;"
+    },
+    {
+        "mot;": "cabinet;"
+    },
+    {
+        "mot;": "cacher;"
+    },
+    {
+        "mot;": "calme;"
+    },
+    {
+        "mot;": "calme;"
+    },
+    {
+        "mot;": "calmer;"
+    },
+    {
+        "mot;": "camarade;"
+    },
+    {
+        "mot;": "campagne;"
+    },
+    {
+        "mot;": "capable;"
+    },
+    {
+        "mot;": "car;"
+    },
+    {
+        "mot;": "caractère;"
+    },
+    {
+        "mot;": "caresser;"
+    },
+    {
+        "mot;": "carte;"
+    },
+    {
+        "mot;": "cas;"
+    },
+    {
+        "mot;": "casser;"
+    },
+    {
+        "mot;": "cause;"
+    },
+    {
+        "mot;": "causer;"
+    },
+    {
+        "mot;": "ce;"
+    },
+    {
+        "mot;": "ce;"
+    },
+    {
+        "mot;": "ceci;"
+    },
+    {
+        "mot;": "céder;"
+    },
+    {
+        "mot;": "cela;"
+    },
+    {
+        "mot;": "celui;"
+    },
+    {
+        "mot;": "cent;"
+    },
+    {
+        "mot;": "centre;"
+    },
+    {
+        "mot;": "cependant;"
+    },
+    {
+        "mot;": "cercle;"
+    },
+    {
+        "mot;": "certain;"
+    },
+    {
+        "mot;": "certain;"
+    },
+    {
+        "mot;": "certainement;"
+    },
+    {
+        "mot;": "certes;"
+    },
+    {
+        "mot;": "cerveau;"
+    },
+    {
+        "mot;": "cesse;"
+    },
+    {
+        "mot;": "cesser;"
+    },
+    {
+        "mot;": "chacun;"
+    },
+    {
+        "mot;": "chaîne;"
+    },
+    {
+        "mot;": "chair;"
+    },
+    {
+        "mot;": "chaise;"
+    },
+    {
+        "mot;": "chaleur;"
+    },
+    {
+        "mot;": "chambre;"
+    },
+    {
+        "mot;": "champ;"
+    },
+    {
+        "mot;": "chance;"
+    },
+    {
+        "mot;": "changement;"
+    },
+    {
+        "mot;": "changer;"
+    },
+    {
+        "mot;": "chant;"
+    },
+    {
+        "mot;": "chanter;"
+    },
+    {
+        "mot;": "chaque;"
+    },
+    {
+        "mot;": "charge;"
+    },
+    {
+        "mot;": "charger;"
+    },
+    {
+        "mot;": "chasse;"
+    },
+    {
+        "mot;": "chasser;"
+    },
+    {
+        "mot;": "chat;"
+    },
+    {
+        "mot;": "chaud;"
+    },
+    {
+        "mot;": "chef;"
+    },
+    {
+        "mot;": "chemin;"
+    },
+    {
+        "mot;": "chemise;"
+    },
+    {
+        "mot;": "cher;"
+    },
+    {
+        "mot;": "chercher;"
+    },
+    {
+        "mot;": "cheval;"
+    },
+    {
+        "mot;": "cheveu;"
+    },
+    {
+        "mot;": "chez;"
+    },
+    {
+        "mot;": "chien;"
+    },
+    {
+        "mot;": "chiffre;"
+    },
+    {
+        "mot;": "choisir;"
+    },
+    {
+        "mot;": "choix;"
+    },
+    {
+        "mot;": "chose;"
+    },
+    {
+        "mot;": "chute;"
+    },
+    {
+        "mot;": "ci;"
+    },
+    {
+        "mot;": "ciel;"
+    },
+    {
+        "mot;": "cinq;"
+    },
+    {
+        "mot;": "cinquante;"
+    },
+    {
+        "mot;": "circonstance;"
+    },
+    {
+        "mot;": "clair;"
+    },
+    {
+        "mot;": "claire;"
+    },
+    {
+        "mot;": "classe;"
+    },
+    {
+        "mot;": "clef;"
+    },
+    {
+        "mot;": "coeur;"
+    },
+    {
+        "mot;": "coin;"
+    },
+    {
+        "mot;": "colère;"
+    },
+    {
+        "mot;": "colline;"
+    },
+    {
+        "mot;": "colon;"
+    },
+    {
+        "mot;": "combat;"
+    },
+    {
+        "mot;": "combien;"
+    },
+    {
+        "mot;": "commander;"
+    },
+    {
+        "mot;": "comme;"
+    },
+    {
+        "mot;": "comme;"
+    },
+    {
+        "mot;": "commencement;"
+    },
+    {
+        "mot;": "commencer;"
+    },
+    {
+        "mot;": "comment;"
+    },
+    {
+        "mot;": "comment;"
+    },
+    {
+        "mot;": "commun;"
+    },
+    {
+        "mot;": "compagnie;"
+    },
+    {
+        "mot;": "compagnon;"
+    },
+    {
+        "mot;": "complet;"
+    },
+    {
+        "mot;": "complètement;"
+    },
+    {
+        "mot;": "composer;"
+    },
+    {
+        "mot;": "comprendre;"
+    },
+    {
+        "mot;": "compte;"
+    },
+    {
+        "mot;": "compter;"
+    },
+    {
+        "mot;": "conclure;"
+    },
+    {
+        "mot;": "condamner;"
+    },
+    {
+        "mot;": "condition;"
+    },
+    {
+        "mot;": "conduire;"
+    },
+    {
+        "mot;": "confiance;"
+    },
+    {
+        "mot;": "confier;"
+    },
+    {
+        "mot;": "confondre;"
+    },
+    {
+        "mot;": "connaissance;"
+    },
+    {
+        "mot;": "connaître;"
+    },
+    {
+        "mot;": "conscience;"
+    },
+    {
+        "mot;": "conseil;"
+    },
+    {
+        "mot;": "consentir;"
+    },
+    {
+        "mot;": "considérer;"
+    },
+    {
+        "mot;": "construire;"
+    },
+    {
+        "mot;": "consulter;"
+    },
+    {
+        "mot;": "contenir;"
+    },
+    {
+        "mot;": "content;"
+    },
+    {
+        "mot;": "contenter;"
+    },
+    {
+        "mot;": "continuer;"
+    },
+    {
+        "mot;": "contraire;"
+    },
+    {
+        "mot;": "contre;"
+    },
+    {
+        "mot;": "convenir;"
+    },
+    {
+        "mot;": "conversation;"
+    },
+    {
+        "mot;": "corde;"
+    },
+    {
+        "mot;": "corps;"
+    },
+    {
+        "mot;": "côte;"
+    },
+    {
+        "mot;": "côté;"
+    },
+    {
+        "mot;": "cou;"
+    },
+    {
+        "mot;": "couche;"
+    },
+    {
+        "mot;": "coucher;"
+    },
+    {
+        "mot;": "couler;"
+    },
+    {
+        "mot;": "couleur;"
+    },
+    {
+        "mot;": "coup;"
+    },
+    {
+        "mot;": "couper;"
+    },
+    {
+        "mot;": "cour;"
+    },
+    {
+        "mot;": "courage;"
+    },
+    {
+        "mot;": "courant;"
+    },
+    {
+        "mot;": "courir;"
+    },
+    {
+        "mot;": "cours;"
+    },
+    {
+        "mot;": "course;"
+    },
+    {
+        "mot;": "court;"
+    },
+    {
+        "mot;": "coûter;"
+    },
+    {
+        "mot;": "couvrir;"
+    },
+    {
+        "mot;": "craindre;"
+    },
+    {
+        "mot;": "crainte;"
+    },
+    {
+        "mot;": "créer;"
+    },
+    {
+        "mot;": "creuser;"
+    },
+    {
+        "mot;": "cri;"
+    },
+    {
+        "mot;": "crier;"
+    },
+    {
+        "mot;": "crise;"
+    },
+    {
+        "mot;": "croire;"
+    },
+    {
+        "mot;": "croiser;"
+    },
+    {
+        "mot;": "croix;"
+    },
+    {
+        "mot;": "cruel;"
+    },
+    {
+        "mot;": "cuisine;"
+    },
+    {
+        "mot;": "curieux;"
+    },
+    {
+        "mot;": "curiosité;"
+    },
+    {
+        "mot;": "d'abord;"
+    },
+    {
+        "mot;": "dame;"
+    },
+    {
+        "mot;": "danger;"
+    },
+    {
+        "mot;": "dangereux;"
+    },
+    {
+        "mot;": "dans;"
+    },
+    {
+        "mot;": "danser;"
+    },
+    {
+        "mot;": "d'autres;"
+    },
+    {
+        "mot;": "d'autres;"
+    },
+    {
+        "mot;": "davantage;"
+    },
+    {
+        "mot;": "de;"
+    },
+    {
+        "mot;": "de;"
+    },
+    {
+        "mot;": "debout;"
+    },
+    {
+        "mot;": "début;"
+    },
+    {
+        "mot;": "déchirer;"
+    },
+    {
+        "mot;": "décider;"
+    },
+    {
+        "mot;": "déclarer;"
+    },
+    {
+        "mot;": "découvrir;"
+    },
+    {
+        "mot;": "décrire;"
+    },
+    {
+        "mot;": "défaut;"
+    },
+    {
+        "mot;": "défendre;"
+    },
+    {
+        "mot;": "dégager;"
+    },
+    {
+        "mot;": "dehors;"
+    },
+    {
+        "mot;": "dehors;"
+    },
+    {
+        "mot;": "déjà;"
+    },
+    {
+        "mot;": "delà;"
+    },
+    {
+        "mot;": "demain;"
+    },
+    {
+        "mot;": "demain;"
+    },
+    {
+        "mot;": "demande;"
+    },
+    {
+        "mot;": "demander;"
+    },
+    {
+        "mot;": "demeurer;"
+    },
+    {
+        "mot;": "demi;"
+    },
+    {
+        "mot;": "dent;"
+    },
+    {
+        "mot;": "départ;"
+    },
+    {
+        "mot;": "dépasser;"
+    },
+    {
+        "mot;": "déposer;"
+    },
+    {
+        "mot;": "depuis;"
+    },
+    {
+        "mot;": "depuis;"
+    },
+    {
+        "mot;": "dernier;"
+    },
+    {
+        "mot;": "dernier;"
+    },
+    {
+        "mot;": "derrière;"
+    },
+    {
+        "mot;": "dès;"
+    },
+    {
+        "mot;": "descendre;"
+    },
+    {
+        "mot;": "désert;"
+    },
+    {
+        "mot;": "désespoir;"
+    },
+    {
+        "mot;": "désigner;"
+    },
+    {
+        "mot;": "désir;"
+    },
+    {
+        "mot;": "désirer;"
+    },
+    {
+        "mot;": "désormais;"
+    },
+    {
+        "mot;": "dessiner;"
+    },
+    {
+        "mot;": "dessus;"
+    },
+    {
+        "mot;": "détacher;"
+    },
+    {
+        "mot;": "détail;"
+    },
+    {
+        "mot;": "détruire;"
+    },
+    {
+        "mot;": "deux;"
+    },
+    {
+        "mot;": "devant;"
+    },
+    {
+        "mot;": "devant;"
+    },
+    {
+        "mot;": "devenir;"
+    },
+    {
+        "mot;": "deviner;"
+    },
+    {
+        "mot;": "devoir;"
+    },
+    {
+        "mot;": "devoir;"
+    },
+    {
+        "mot;": "dieu;"
+    },
+    {
+        "mot;": "différent;"
+    },
+    {
+        "mot;": "difficile;"
+    },
+    {
+        "mot;": "digne;"
+    },
+    {
+        "mot;": "dimanche;"
+    },
+    {
+        "mot;": "dire;"
+    },
+    {
+        "mot;": "direction;"
+    },
+    {
+        "mot;": "diriger;"
+    },
+    {
+        "mot;": "discours;"
+    },
+    {
+        "mot;": "discussion;"
+    },
+    {
+        "mot;": "discuter;"
+    },
+    {
+        "mot;": "disparaître;"
+    },
+    {
+        "mot;": "disposer;"
+    },
+    {
+        "mot;": "distance;"
+    },
+    {
+        "mot;": "distinguer;"
+    },
+    {
+        "mot;": "divers;"
+    },
+    {
+        "mot;": "dix;"
+    },
+    {
+        "mot;": "docteur;"
+    },
+    {
+        "mot;": "doigt;"
+    },
+    {
+        "mot;": "dominer;"
+    },
+    {
+        "mot;": "donc;"
+    },
+    {
+        "mot;": "donner;"
+    },
+    {
+        "mot;": "dont;"
+    },
+    {
+        "mot;": "dormir;"
+    },
+    {
+        "mot;": "dos;"
+    },
+    {
+        "mot;": "double;"
+    },
+    {
+        "mot;": "doucement;"
+    },
+    {
+        "mot;": "douceur;"
+    },
+    {
+        "mot;": "douleur;"
+    },
+    {
+        "mot;": "doute;"
+    },
+    {
+        "mot;": "douter;"
+    },
+    {
+        "mot;": "doux;"
+    },
+    {
+        "mot;": "douze;"
+    },
+    {
+        "mot;": "drame;"
+    },
+    {
+        "mot;": "dresser;"
+    },
+    {
+        "mot;": "droit;"
+    },
+    {
+        "mot;": "droit;"
+    },
+    {
+        "mot;": "droite;"
+    },
+    {
+        "mot;": "droite;"
+    },
+    {
+        "mot;": "drôle;"
+    },
+    {
+        "mot;": "du;"
+    },
+    {
+        "mot;": "dur;"
+    },
+    {
+        "mot;": "durant;"
+    },
+    {
+        "mot;": "durer;"
+    },
+    {
+        "mot;": "eau;"
+    },
+    {
+        "mot;": "eaux;"
+    },
+    {
+        "mot;": "écarter;"
+    },
+    {
+        "mot;": "échapper;"
+    },
+    {
+        "mot;": "éclairer;"
+    },
+    {
+        "mot;": "éclat;"
+    },
+    {
+        "mot;": "éclater;"
+    },
+    {
+        "mot;": "école;"
+    },
+    {
+        "mot;": "écouter;"
+    },
+    {
+        "mot;": "écraser;"
+    },
+    {
+        "mot;": "écrire;"
+    },
+    {
+        "mot;": "effacer;"
+    },
+    {
+        "mot;": "effet;"
+    },
+    {
+        "mot;": "effort;"
+    },
+    {
+        "mot;": "égal;"
+    },
+    {
+        "mot;": "également;"
+    },
+    {
+        "mot;": "eh;"
+    },
+    {
+        "mot;": "élément;"
+    },
+    {
+        "mot;": "élever;"
+    },
+    {
+        "mot;": "elle;"
+    },
+    {
+        "mot;": "éloigner;"
+    },
+    {
+        "mot;": "embrasser;"
+    },
+    {
+        "mot;": "emmener;"
+    },
+    {
+        "mot;": "émotion;"
+    },
+    {
+        "mot;": "empêcher;"
+    },
+    {
+        "mot;": "empire;"
+    },
+    {
+        "mot;": "employer;"
+    },
+    {
+        "mot;": "emporter;"
+    },
+    {
+        "mot;": "en;"
+    },
+    {
+        "mot;": "en;"
+    },
+    {
+        "mot;": "en;"
+    },
+    {
+        "mot;": "encore;"
+    },
+    {
+        "mot;": "endormir;"
+    },
+    {
+        "mot;": "endroit;"
+    },
+    {
+        "mot;": "énergie;"
+    },
+    {
+        "mot;": "enfance;"
+    },
+    {
+        "mot;": "enfant;"
+    },
+    {
+        "mot;": "enfermer;"
+    },
+    {
+        "mot;": "enfin;"
+    },
+    {
+        "mot;": "enfoncer;"
+    },
+    {
+        "mot;": "engager;"
+    },
+    {
+        "mot;": "enlever;"
+    },
+    {
+        "mot;": "ennemi;"
+    },
+    {
+        "mot;": "énorme;"
+    },
+    {
+        "mot;": "ensemble;"
+    },
+    {
+        "mot;": "ensemble;"
+    },
+    {
+        "mot;": "ensuite;"
+    },
+    {
+        "mot;": "entendre;"
+    },
+    {
+        "mot;": "entier;"
+    },
+    {
+        "mot;": "entourer;"
+    },
+    {
+        "mot;": "entraîner;"
+    },
+    {
+        "mot;": "entre;"
+    },
+    {
+        "mot;": "entrée;"
+    },
+    {
+        "mot;": "entrer;"
+    },
+    {
+        "mot;": "entretenir;"
+    },
+    {
+        "mot;": "envelopper;"
+    },
+    {
+        "mot;": "envie;"
+    },
+    {
+        "mot;": "environ;"
+    },
+    {
+        "mot;": "envoyer;"
+    },
+    {
+        "mot;": "épais;"
+    },
+    {
+        "mot;": "épaule;"
+    },
+    {
+        "mot;": "époque;"
+    },
+    {
+        "mot;": "éprouver;"
+    },
+    {
+        "mot;": "erreur;"
+    },
+    {
+        "mot;": "escalier;"
+    },
+    {
+        "mot;": "espace;"
+    },
+    {
+        "mot;": "espèce;"
+    },
+    {
+        "mot;": "espérer;"
+    },
+    {
+        "mot;": "espoir;"
+    },
+    {
+        "mot;": "esprit;"
+    },
+    {
+        "mot;": "essayer;"
+    },
+    {
+        "mot;": "essuyer;"
+    },
+    {
+        "mot;": "est;"
+    },
+    {
+        "mot;": "et;"
+    },
+    {
+        "mot;": "établir;"
+    },
+    {
+        "mot;": "étage;"
+    },
+    {
+        "mot;": "étaler;"
+    },
+    {
+        "mot;": "état;"
+    },
+    {
+        "mot;": "etc;"
+    },
+    {
+        "mot;": "été;"
+    },
+    {
+        "mot;": "éteindre;"
+    },
+    {
+        "mot;": "étendre;"
+    },
+    {
+        "mot;": "étendue;"
+    },
+    {
+        "mot;": "éternel;"
+    },
+    {
+        "mot;": "étoile;"
+    },
+    {
+        "mot;": "étonner;"
+    },
+    {
+        "mot;": "étouffer;"
+    },
+    {
+        "mot;": "étrange;"
+    },
+    {
+        "mot;": "étranger;"
+    },
+    {
+        "mot;": "étranger;"
+    },
+    {
+        "mot;": "être;"
+    },
+    {
+        "mot;": "être;"
+    },
+    {
+        "mot;": "étroit;"
+    },
+    {
+        "mot;": "étude;"
+    },
+    {
+        "mot;": "étudier;"
+    },
+    {
+        "mot;": "événement;"
+    },
+    {
+        "mot;": "éviter;"
+    },
+    {
+        "mot;": "examiner;"
+    },
+    {
+        "mot;": "exécuter;"
+    },
+    {
+        "mot;": "exemple;"
+    },
+    {
+        "mot;": "exiger;"
+    },
+    {
+        "mot;": "existence;"
+    },
+    {
+        "mot;": "exister;"
+    },
+    {
+        "mot;": "expérience;"
+    },
+    {
+        "mot;": "expliquer;"
+    },
+    {
+        "mot;": "exposer;"
+    },
+    {
+        "mot;": "expression;"
+    },
+    {
+        "mot;": "exprimer;"
+    },
+    {
+        "mot;": "extraordinaire;"
+    },
+    {
+        "mot;": "face;"
+    },
+    {
+        "mot;": "facile;"
+    },
+    {
+        "mot;": "façon;"
+    },
+    {
+        "mot;": "faible;"
+    },
+    {
+        "mot;": "faim;"
+    },
+    {
+        "mot;": "faire;"
+    },
+    {
+        "mot;": "fait;"
+    },
+    {
+        "mot;": "fait;"
+    },
+    {
+        "mot;": "falloir;"
+    },
+    {
+        "mot;": "famille;"
+    },
+    {
+        "mot;": "fatigue;"
+    },
+    {
+        "mot;": "fatiguer;"
+    },
+    {
+        "mot;": "faute;"
+    },
+    {
+        "mot;": "fauteuil;"
+    },
+    {
+        "mot;": "faux;"
+    },
+    {
+        "mot;": "faveur;"
+    },
+    {
+        "mot;": "femme;"
+    },
+    {
+        "mot;": "fenêtre;"
+    },
+    {
+        "mot;": "fer;"
+    },
+    {
+        "mot;": "ferme;"
+    },
+    {
+        "mot;": "fermer;"
+    },
+    {
+        "mot;": "fête;"
+    },
+    {
+        "mot;": "feu;"
+    },
+    {
+        "mot;": "feuille;"
+    },
+    {
+        "mot;": "fidèle;"
+    },
+    {
+        "mot;": "fier;"
+    },
+    {
+        "mot;": "figure;"
+    },
+    {
+        "mot;": "figurer;"
+    },
+    {
+        "mot;": "fil;"
+    },
+    {
+        "mot;": "fille;"
+    },
+    {
+        "mot;": "fils;"
+    },
+    {
+        "mot;": "fin;"
+    },
+    {
+        "mot;": "fin;"
+    },
+    {
+        "mot;": "fine;"
+    },
+    {
+        "mot;": "finir;"
+    },
+    {
+        "mot;": "fixe;"
+    },
+    {
+        "mot;": "fixer;"
+    },
+    {
+        "mot;": "flamme;"
+    },
+    {
+        "mot;": "fleur;"
+    },
+    {
+        "mot;": "flot;"
+    },
+    {
+        "mot;": "foi;"
+    },
+    {
+        "mot;": "fois;"
+    },
+    {
+        "mot;": "folie;"
+    },
+    {
+        "mot;": "fonction;"
+    },
+    {
+        "mot;": "fond;"
+    },
+    {
+        "mot;": "fonder;"
+    },
+    {
+        "mot;": "force;"
+    },
+    {
+        "mot;": "forcer;"
+    },
+    {
+        "mot;": "forêt;"
+    },
+    {
+        "mot;": "forme;"
+    },
+    {
+        "mot;": "former;"
+    },
+    {
+        "mot;": "fort;"
+    },
+    {
+        "mot;": "fort;"
+    },
+    {
+        "mot;": "fortune;"
+    },
+    {
+        "mot;": "fou;"
+    },
+    {
+        "mot;": "foule;"
+    },
+    {
+        "mot;": "frais;"
+    },
+    {
+        "mot;": "franc;"
+    },
+    {
+        "mot;": "français;"
+    },
+    {
+        "mot;": "français;"
+    },
+    {
+        "mot;": "franchir;"
+    },
+    {
+        "mot;": "françois;"
+    },
+    {
+        "mot;": "frapper;"
+    },
+    {
+        "mot;": "frère;"
+    },
+    {
+        "mot;": "froid;"
+    },
+    {
+        "mot;": "froid;"
+    },
+    {
+        "mot;": "front;"
+    },
+    {
+        "mot;": "fruit;"
+    },
+    {
+        "mot;": "fuir;"
+    },
+    {
+        "mot;": "fumée;"
+    },
+    {
+        "mot;": "fumer;"
+    },
+    {
+        "mot;": "fusil;"
+    },
+    {
+        "mot;": "gagner;"
+    },
+    {
+        "mot;": "garçon;"
+    },
+    {
+        "mot;": "garde;"
+    },
+    {
+        "mot;": "garder;"
+    },
+    {
+        "mot;": "gauche;"
+    },
+    {
+        "mot;": "gauche;"
+    },
+    {
+        "mot;": "général;"
+    },
+    {
+        "mot;": "général;"
+    },
+    {
+        "mot;": "genou;"
+    },
+    {
+        "mot;": "genre;"
+    },
+    {
+        "mot;": "gens;"
+    },
+    {
+        "mot;": "geste;"
+    },
+    {
+        "mot;": "glace;"
+    },
+    {
+        "mot;": "glisser;"
+    },
+    {
+        "mot;": "gloire;"
+    },
+    {
+        "mot;": "goût;"
+    },
+    {
+        "mot;": "goutte;"
+    },
+    {
+        "mot;": "gouvernement;"
+    },
+    {
+        "mot;": "grâce;"
+    },
+    {
+        "mot;": "grâce;"
+    },
+    {
+        "mot;": "grain;"
+    },
+    {
+        "mot;": "grand;"
+    },
+    {
+        "mot;": "grand;"
+    },
+    {
+        "mot;": "grandir;"
+    },
+    {
+        "mot;": "grave;"
+    },
+    {
+        "mot;": "gris;"
+    },
+    {
+        "mot;": "gros;"
+    },
+    {
+        "mot;": "groupe;"
+    },
+    {
+        "mot;": "guère;"
+    },
+    {
+        "mot;": "guerre;"
+    },
+    {
+        "mot;": "habiller;"
+    },
+    {
+        "mot;": "habitant;"
+    },
+    {
+        "mot;": "habiter;"
+    },
+    {
+        "mot;": "habitude;"
+    },
+    {
+        "mot;": "haine;"
+    },
+    {
+        "mot;": "haïr;"
+    },
+    {
+        "mot;": "hasard;"
+    },
+    {
+        "mot;": "haut;"
+    },
+    {
+        "mot;": "haut;"
+    },
+    {
+        "mot;": "haut;"
+    },
+    {
+        "mot;": "haute;"
+    },
+    {
+        "mot;": "hauteur;"
+    },
+    {
+        "mot;": "herbe;"
+    },
+    {
+        "mot;": "hésiter;"
+    },
+    {
+        "mot;": "heure;"
+    },
+    {
+        "mot;": "heureux;"
+    },
+    {
+        "mot;": "hier;"
+    },
+    {
+        "mot;": "histoire;"
+    },
+    {
+        "mot;": "hiver;"
+    },
+    {
+        "mot;": "homme;"
+    },
+    {
+        "mot;": "honneur;"
+    },
+    {
+        "mot;": "honte;"
+    },
+    {
+        "mot;": "horizon;"
+    },
+    {
+        "mot;": "hors;"
+    },
+    {
+        "mot;": "hôtel;"
+    },
+    {
+        "mot;": "huit;"
+    },
+    {
+        "mot;": "humain;"
+    },
+    {
+        "mot;": "humide;"
+    },
+    {
+        "mot;": "ici;"
+    },
+    {
+        "mot;": "idée;"
+    },
+    {
+        "mot;": "ignorer;"
+    },
+    {
+        "mot;": "il;"
+    },
+    {
+        "mot;": "île;"
+    },
+    {
+        "mot;": "image;"
+    },
+    {
+        "mot;": "imaginer;"
+    },
+    {
+        "mot;": "immense;"
+    },
+    {
+        "mot;": "immobile;"
+    },
+    {
+        "mot;": "importance;"
+    },
+    {
+        "mot;": "important;"
+    },
+    {
+        "mot;": "importer;"
+    },
+    {
+        "mot;": "imposer;"
+    },
+    {
+        "mot;": "impossible;"
+    },
+    {
+        "mot;": "impression;"
+    },
+    {
+        "mot;": "inconnu;"
+    },
+    {
+        "mot;": "indiquer;"
+    },
+    {
+        "mot;": "inquiéter;"
+    },
+    {
+        "mot;": "inquiétude;"
+    },
+    {
+        "mot;": "inspirer;"
+    },
+    {
+        "mot;": "installer;"
+    },
+    {
+        "mot;": "instant;"
+    },
+    {
+        "mot;": "instinct;"
+    },
+    {
+        "mot;": "intelligence;"
+    },
+    {
+        "mot;": "intention;"
+    },
+    {
+        "mot;": "intéresser;"
+    },
+    {
+        "mot;": "intérêt;"
+    },
+    {
+        "mot;": "intérieur;"
+    },
+    {
+        "mot;": "intérieur;"
+    },
+    {
+        "mot;": "interroger;"
+    },
+    {
+        "mot;": "interrompre;"
+    },
+    {
+        "mot;": "inutile;"
+    },
+    {
+        "mot;": "inventer;"
+    },
+    {
+        "mot;": "inviter;"
+    },
+    {
+        "mot;": "jamais;"
+    },
+    {
+        "mot;": "jambe;"
+    },
+    {
+        "mot;": "jardin;"
+    },
+    {
+        "mot;": "jaune;"
+    },
+    {
+        "mot;": "je;"
+    },
+    {
+        "mot;": "jeter;"
+    },
+    {
+        "mot;": "jeu;"
+    },
+    {
+        "mot;": "jeune;"
+    },
+    {
+        "mot;": "jeune;"
+    },
+    {
+        "mot;": "jeunesse;"
+    },
+    {
+        "mot;": "joie;"
+    },
+    {
+        "mot;": "joindre;"
+    },
+    {
+        "mot;": "joli;"
+    },
+    {
+        "mot;": "joue;"
+    },
+    {
+        "mot;": "jouer;"
+    },
+    {
+        "mot;": "jour;"
+    },
+    {
+        "mot;": "journal;"
+    },
+    {
+        "mot;": "journée;"
+    },
+    {
+        "mot;": "juge;"
+    },
+    {
+        "mot;": "juger;"
+    },
+    {
+        "mot;": "jusque;"
+    },
+    {
+        "mot;": "juste;"
+    },
+    {
+        "mot;": "justice;"
+    },
+    {
+        "mot;": "là;"
+    },
+    {
+        "mot;": "large;"
+    },
+    {
+        "mot;": "larme;"
+    },
+    {
+        "mot;": "le;"
+    },
+    {
+        "mot;": "le;"
+    },
+    {
+        "mot;": "léger;"
+    },
+    {
+        "mot;": "lendemain;"
+    },
+    {
+        "mot;": "lentement;"
+    },
+    {
+        "mot;": "lequel;"
+    },
+    {
+        "mot;": "lettre;"
+    },
+    {
+        "mot;": "leur;"
+    },
+    {
+        "mot;": "leur;"
+    },
+    {
+        "mot;": "lever;"
+    },
+    {
+        "mot;": "lèvre;"
+    },
+    {
+        "mot;": "liberté;"
+    },
+    {
+        "mot;": "libre;"
+    },
+    {
+        "mot;": "lien;"
+    },
+    {
+        "mot;": "lier;"
+    },
+    {
+        "mot;": "lieu;"
+    },
+    {
+        "mot;": "ligne;"
+    },
+    {
+        "mot;": "lire;"
+    },
+    {
+        "mot;": "lisser;"
+    },
+    {
+        "mot;": "lit;"
+    },
+    {
+        "mot;": "livre;"
+    },
+    {
+        "mot;": "livrer;"
+    },
+    {
+        "mot;": "loi;"
+    },
+    {
+        "mot;": "loin;"
+    },
+    {
+        "mot;": "long;"
+    },
+    {
+        "mot;": "long;"
+    },
+    {
+        "mot;": "longtemps;"
+    },
+    {
+        "mot;": "lors;"
+    },
+    {
+        "mot;": "lorsque;"
+    },
+    {
+        "mot;": "loup;"
+    },
+    {
+        "mot;": "lourd;"
+    },
+    {
+        "mot;": "lueur;"
+    },
+    {
+        "mot;": "lui;"
+    },
+    {
+        "mot;": "lumière;"
+    },
+    {
+        "mot;": "l'un;"
+    },
+    {
+        "mot;": "lune;"
+    },
+    {
+        "mot;": "l'une;"
+    },
+    {
+        "mot;": "lutte;"
+    },
+    {
+        "mot;": "lutter;"
+    },
+    {
+        "mot;": "machine;"
+    },
+    {
+        "mot;": "madame;"
+    },
+    {
+        "mot;": "magnifique;"
+    },
+    {
+        "mot;": "main;"
+    },
+    {
+        "mot;": "maintenant;"
+    },
+    {
+        "mot;": "maintenir;"
+    },
+    {
+        "mot;": "mais;"
+    },
+    {
+        "mot;": "maison;"
+    },
+    {
+        "mot;": "maître;"
+    },
+    {
+        "mot;": "mal;"
+    },
+    {
+        "mot;": "mal;"
+    },
+    {
+        "mot;": "malade;"
+    },
+    {
+        "mot;": "maladie;"
+    },
+    {
+        "mot;": "malgré;"
+    },
+    {
+        "mot;": "malheur;"
+    },
+    {
+        "mot;": "manger;"
+    },
+    {
+        "mot;": "manier;"
+    },
+    {
+        "mot;": "manquer;"
+    },
+    {
+        "mot;": "marchand;"
+    },
+    {
+        "mot;": "marche;"
+    },
+    {
+        "mot;": "marché;"
+    },
+    {
+        "mot;": "marcher;"
+    },
+    {
+        "mot;": "mari;"
+    },
+    {
+        "mot;": "mari;"
+    },
+    {
+        "mot;": "mariage;"
+    },
+    {
+        "mot;": "marier;"
+    },
+    {
+        "mot;": "marquer;"
+    },
+    {
+        "mot;": "masse;"
+    },
+    {
+        "mot;": "matière;"
+    },
+    {
+        "mot;": "matin;"
+    },
+    {
+        "mot;": "mauvais;"
+    },
+    {
+        "mot;": "me;"
+    },
+    {
+        "mot;": "médecin;"
+    },
+    {
+        "mot;": "meilleur;"
+    },
+    {
+        "mot;": "mêler;"
+    },
+    {
+        "mot;": "membre;"
+    },
+    {
+        "mot;": "même;"
+    },
+    {
+        "mot;": "même;"
+    },
+    {
+        "mot;": "même;"
+    },
+    {
+        "mot;": "mémoire;"
+    },
+    {
+        "mot;": "menacer;"
+    },
+    {
+        "mot;": "mener;"
+    },
+    {
+        "mot;": "mensonge;"
+    },
+    {
+        "mot;": "mentir;"
+    },
+    {
+        "mot;": "mer;"
+    },
+    {
+        "mot;": "mériter;"
+    },
+    {
+        "mot;": "mesure;"
+    },
+    {
+        "mot;": "métier;"
+    },
+    {
+        "mot;": "mettre;"
+    },
+    {
+        "mot;": "midi;"
+    },
+    {
+        "mot;": "mien;"
+    },
+    {
+        "mot;": "mieux;"
+    },
+    {
+        "mot;": "milieu;"
+    },
+    {
+        "mot;": "militaire;"
+    },
+    {
+        "mot;": "mille;"
+    },
+    {
+        "mot;": "million;"
+    },
+    {
+        "mot;": "mince;"
+    },
+    {
+        "mot;": "mine;"
+    },
+    {
+        "mot;": "ministre;"
+    },
+    {
+        "mot;": "minute;"
+    },
+    {
+        "mot;": "miser;"
+    },
+    {
+        "mot;": "mode;"
+    },
+    {
+        "mot;": "moi;"
+    },
+    {
+        "mot;": "moindre;"
+    },
+    {
+        "mot;": "moins;"
+    },
+    {
+        "mot;": "mois;"
+    },
+    {
+        "mot;": "moitié;"
+    },
+    {
+        "mot;": "moment;"
+    },
+    {
+        "mot;": "mon;"
+    },
+    {
+        "mot;": "monde;"
+    },
+    {
+        "mot;": "monsieur;"
+    },
+    {
+        "mot;": "montagne;"
+    },
+    {
+        "mot;": "monter;"
+    },
+    {
+        "mot;": "montrer;"
+    },
+    {
+        "mot;": "morceau;"
+    },
+    {
+        "mot;": "mort;"
+    },
+    {
+        "mot;": "mort;"
+    },
+    {
+        "mot;": "mot;"
+    },
+    {
+        "mot;": "mourir;"
+    },
+    {
+        "mot;": "mouvement;"
+    },
+    {
+        "mot;": "moyen;"
+    },
+    {
+        "mot;": "moyen;"
+    },
+    {
+        "mot;": "muet;"
+    },
+    {
+        "mot;": "mur;"
+    },
+    {
+        "mot;": "musique;"
+    },
+    {
+        "mot;": "naissance;"
+    },
+    {
+        "mot;": "naître;"
+    },
+    {
+        "mot;": "nation;"
+    },
+    {
+        "mot;": "nature;"
+    },
+    {
+        "mot;": "naturel;"
+    },
+    {
+        "mot;": "naturellement;"
+    },
+    {
+        "mot;": "ne;"
+    },
+    {
+        "mot;": "nécessaire;"
+    },
+    {
+        "mot;": "nerveux;"
+    },
+    {
+        "mot;": "neuf;"
+    },
+    {
+        "mot;": "neuf;"
+    },
+    {
+        "mot;": "nez;"
+    },
+    {
+        "mot;": "ni;"
+    },
+    {
+        "mot;": "noir;"
+    },
+    {
+        "mot;": "noir;"
+    },
+    {
+        "mot;": "noire;"
+    },
+    {
+        "mot;": "nom;"
+    },
+    {
+        "mot;": "nombre;"
+    },
+    {
+        "mot;": "nombreux;"
+    },
+    {
+        "mot;": "nommer;"
+    },
+    {
+        "mot;": "non;"
+    },
+    {
+        "mot;": "nord;"
+    },
+    {
+        "mot;": "note;"
+    },
+    {
+        "mot;": "notre;"
+    },
+    {
+        "mot;": "nourrir;"
+    },
+    {
+        "mot;": "nous;"
+    },
+    {
+        "mot;": "nouveau;"
+    },
+    {
+        "mot;": "nouveau;"
+    },
+    {
+        "mot;": "nu;"
+    },
+    {
+        "mot;": "nuage;"
+    },
+    {
+        "mot;": "nuit;"
+    },
+    {
+        "mot;": "nul;"
+    },
+    {
+        "mot;": "obéir;"
+    },
+    {
+        "mot;": "objet;"
+    },
+    {
+        "mot;": "obliger;"
+    },
+    {
+        "mot;": "observer;"
+    },
+    {
+        "mot;": "obtenir;"
+    },
+    {
+        "mot;": "occasion;"
+    },
+    {
+        "mot;": "occuper;"
+    },
+    {
+        "mot;": "odeur;"
+    },
+    {
+        "mot;": "oeil;"
+    },
+    {
+        "mot;": "oeuvre;"
+    },
+    {
+        "mot;": "officier;"
+    },
+    {
+        "mot;": "offrir;"
+    },
+    {
+        "mot;": "oh;"
+    },
+    {
+        "mot;": "oiseau;"
+    },
+    {
+        "mot;": "ombre;"
+    },
+    {
+        "mot;": "on;"
+    },
+    {
+        "mot;": "oncle;"
+    },
+    {
+        "mot;": "or;"
+    },
+    {
+        "mot;": "or;"
+    },
+    {
+        "mot;": "ordre;"
+    },
+    {
+        "mot;": "oreille;"
+    },
+    {
+        "mot;": "oser;"
+    },
+    {
+        "mot;": "ou;"
+    },
+    {
+        "mot;": "où;"
+    },
+    {
+        "mot;": "oublier;"
+    },
+    {
+        "mot;": "oui;"
+    },
+    {
+        "mot;": "ouvert;"
+    },
+    {
+        "mot;": "ouvrage;"
+    },
+    {
+        "mot;": "ouvrir;"
+    },
+    {
+        "mot;": "page;"
+    },
+    {
+        "mot;": "pain;"
+    },
+    {
+        "mot;": "paix;"
+    },
+    {
+        "mot;": "palais;"
+    },
+    {
+        "mot;": "papa;"
+    },
+    {
+        "mot;": "papier;"
+    },
+    {
+        "mot;": "paquet;"
+    },
+    {
+        "mot;": "par;"
+    },
+    {
+        "mot;": "paraître;"
+    },
+    {
+        "mot;": "parcourir;"
+    },
+    {
+        "mot;": "pareil;"
+    },
+    {
+        "mot;": "parent;"
+    },
+    {
+        "mot;": "parfaitement;"
+    },
+    {
+        "mot;": "parfois;"
+    },
+    {
+        "mot;": "parler;"
+    },
+    {
+        "mot;": "parmi;"
+    },
+    {
+        "mot;": "parole;"
+    },
+    {
+        "mot;": "part;"
+    },
+    {
+        "mot;": "partager;"
+    },
+    {
+        "mot;": "parti;"
+    },
+    {
+        "mot;": "particulier;"
+    },
+    {
+        "mot;": "partie;"
+    },
+    {
+        "mot;": "partir;"
+    },
+    {
+        "mot;": "partout;"
+    },
+    {
+        "mot;": "parvenir;"
+    },
+    {
+        "mot;": "pas;"
+    },
+    {
+        "mot;": "pas;"
+    },
+    {
+        "mot;": "passage;"
+    },
+    {
+        "mot;": "passé;"
+    },
+    {
+        "mot;": "passé;"
+    },
+    {
+        "mot;": "passer;"
+    },
+    {
+        "mot;": "passion;"
+    },
+    {
+        "mot;": "patron;"
+    },
+    {
+        "mot;": "paupière;"
+    },
+    {
+        "mot;": "pauvre;"
+    },
+    {
+        "mot;": "pauvre;"
+    },
+    {
+        "mot;": "payer;"
+    },
+    {
+        "mot;": "pays;"
+    },
+    {
+        "mot;": "paysage;"
+    },
+    {
+        "mot;": "paysan;"
+    },
+    {
+        "mot;": "peau;"
+    },
+    {
+        "mot;": "peine;"
+    },
+    {
+        "mot;": "pencher;"
+    },
+    {
+        "mot;": "pendant;"
+    },
+    {
+        "mot;": "pendre;"
+    },
+    {
+        "mot;": "pénétrer;"
+    },
+    {
+        "mot;": "pensée;"
+    },
+    {
+        "mot;": "penser;"
+    },
+    {
+        "mot;": "perdre;"
+    },
+    {
+        "mot;": "perdu;"
+    },
+    {
+        "mot;": "père;"
+    },
+    {
+        "mot;": "permettre;"
+    },
+    {
+        "mot;": "personnage;"
+    },
+    {
+        "mot;": "personne;"
+    },
+    {
+        "mot;": "personne;"
+    },
+    {
+        "mot;": "perte;"
+    },
+    {
+        "mot;": "peser;"
+    },
+    {
+        "mot;": "petit;"
+    },
+    {
+        "mot;": "petit;"
+    },
+    {
+        "mot;": "peu;"
+    },
+    {
+        "mot;": "peuple;"
+    },
+    {
+        "mot;": "peur;"
+    },
+    {
+        "mot;": "phrase;"
+    },
+    {
+        "mot;": "pièce;"
+    },
+    {
+        "mot;": "pied;"
+    },
+    {
+        "mot;": "pierre;"
+    },
+    {
+        "mot;": "pitié;"
+    },
+    {
+        "mot;": "place;"
+    },
+    {
+        "mot;": "placer;"
+    },
+    {
+        "mot;": "plaindre;"
+    },
+    {
+        "mot;": "plaine;"
+    },
+    {
+        "mot;": "plaire;"
+    },
+    {
+        "mot;": "plaisir;"
+    },
+    {
+        "mot;": "plan;"
+    },
+    {
+        "mot;": "planche;"
+    },
+    {
+        "mot;": "plante;"
+    },
+    {
+        "mot;": "plein;"
+    },
+    {
+        "mot;": "plein;"
+    },
+    {
+        "mot;": "pleurer;"
+    },
+    {
+        "mot;": "plonger;"
+    },
+    {
+        "mot;": "pluie;"
+    },
+    {
+        "mot;": "plus;"
+    },
+    {
+        "mot;": "plusieurs;"
+    },
+    {
+        "mot;": "plutôt;"
+    },
+    {
+        "mot;": "poche;"
+    },
+    {
+        "mot;": "poésie;"
+    },
+    {
+        "mot;": "poète;"
+    },
+    {
+        "mot;": "poids;"
+    },
+    {
+        "mot;": "point;"
+    },
+    {
+        "mot;": "point;"
+    },
+    {
+        "mot;": "pointe;"
+    },
+    {
+        "mot;": "poitrine;"
+    },
+    {
+        "mot;": "police;"
+    },
+    {
+        "mot;": "politique;"
+    },
+    {
+        "mot;": "politique;"
+    },
+    {
+        "mot;": "pont;"
+    },
+    {
+        "mot;": "port;"
+    },
+    {
+        "mot;": "porte;"
+    },
+    {
+        "mot;": "porter;"
+    },
+    {
+        "mot;": "portier;"
+    },
+    {
+        "mot;": "poser;"
+    },
+    {
+        "mot;": "position;"
+    },
+    {
+        "mot;": "posséder;"
+    },
+    {
+        "mot;": "possible;"
+    },
+    {
+        "mot;": "poste;"
+    },
+    {
+        "mot;": "pour;"
+    },
+    {
+        "mot;": "pourquoi;"
+    },
+    {
+        "mot;": "pourquoi;"
+    },
+    {
+        "mot;": "poursuivre;"
+    },
+    {
+        "mot;": "pourtant;"
+    },
+    {
+        "mot;": "pousser;"
+    },
+    {
+        "mot;": "poussière;"
+    },
+    {
+        "mot;": "pouvoir;"
+    },
+    {
+        "mot;": "pouvoir;"
+    },
+    {
+        "mot;": "précéder;"
+    },
+    {
+        "mot;": "précieux;"
+    },
+    {
+        "mot;": "précipiter;"
+    },
+    {
+        "mot;": "précis;"
+    },
+    {
+        "mot;": "préférer;"
+    },
+    {
+        "mot;": "premier;"
+    },
+    {
+        "mot;": "premier;"
+    },
+    {
+        "mot;": "prendre;"
+    },
+    {
+        "mot;": "préparer;"
+    },
+    {
+        "mot;": "près;"
+    },
+    {
+        "mot;": "près;"
+    },
+    {
+        "mot;": "présence;"
+    },
+    {
+        "mot;": "présent;"
+    },
+    {
+        "mot;": "présent;"
+    },
+    {
+        "mot;": "présenter;"
+    },
+    {
+        "mot;": "président;"
+    },
+    {
+        "mot;": "presque;"
+    },
+    {
+        "mot;": "presser;"
+    },
+    {
+        "mot;": "prêt;"
+    },
+    {
+        "mot;": "prétendre;"
+    },
+    {
+        "mot;": "prêter;"
+    },
+    {
+        "mot;": "preuve;"
+    },
+    {
+        "mot;": "prévenir;"
+    },
+    {
+        "mot;": "prévoir;"
+    },
+    {
+        "mot;": "prier;"
+    },
+    {
+        "mot;": "prière;"
+    },
+    {
+        "mot;": "prince;"
+    },
+    {
+        "mot;": "principe;"
+    },
+    {
+        "mot;": "printemps;"
+    },
+    {
+        "mot;": "prison;"
+    },
+    {
+        "mot;": "prix;"
+    },
+    {
+        "mot;": "problème;"
+    },
+    {
+        "mot;": "prochain;"
+    },
+    {
+        "mot;": "produire;"
+    },
+    {
+        "mot;": "professeur;"
+    },
+    {
+        "mot;": "profiter;"
+    },
+    {
+        "mot;": "profond;"
+    },
+    {
+        "mot;": "profondément;"
+    },
+    {
+        "mot;": "projet;"
+    },
+    {
+        "mot;": "promener;"
+    },
+    {
+        "mot;": "promettre;"
+    },
+    {
+        "mot;": "prononcer;"
+    },
+    {
+        "mot;": "propos;"
+    },
+    {
+        "mot;": "proposer;"
+    },
+    {
+        "mot;": "propre;"
+    },
+    {
+        "mot;": "protéger;"
+    },
+    {
+        "mot;": "prouver;"
+    },
+    {
+        "mot;": "public;"
+    },
+    {
+        "mot;": "public;"
+    },
+    {
+        "mot;": "puis;"
+    },
+    {
+        "mot;": "puis;"
+    },
+    {
+        "mot;": "puisque;"
+    },
+    {
+        "mot;": "puissance;"
+    },
+    {
+        "mot;": "puissant;"
+    },
+    {
+        "mot;": "pur;"
+    },
+    {
+        "mot;": "qualité;"
+    },
+    {
+        "mot;": "quand;"
+    },
+    {
+        "mot;": "quarante;"
+    },
+    {
+        "mot;": "quart;"
+    },
+    {
+        "mot;": "quartier;"
+    },
+    {
+        "mot;": "quatre;"
+    },
+    {
+        "mot;": "que;"
+    },
+    {
+        "mot;": "que;"
+    },
+    {
+        "mot;": "quel;"
+    },
+    {
+        "mot;": "quelque;"
+    },
+    {
+        "mot;": "quelque;"
+    },
+    {
+        "mot;": "quelqu'un;"
+    },
+    {
+        "mot;": "question;"
+    },
+    {
+        "mot;": "queue;"
+    },
+    {
+        "mot;": "qui;"
+    },
+    {
+        "mot;": "quinze;"
+    },
+    {
+        "mot;": "quitter;"
+    },
+    {
+        "mot;": "quoi;"
+    },
+    {
+        "mot;": "race;"
+    },
+    {
+        "mot;": "raconter;"
+    },
+    {
+        "mot;": "raison;"
+    },
+    {
+        "mot;": "ramasser;"
+    },
+    {
+        "mot;": "ramener;"
+    },
+    {
+        "mot;": "rang;"
+    },
+    {
+        "mot;": "rapide;"
+    },
+    {
+        "mot;": "rapidement;"
+    },
+    {
+        "mot;": "rappeler;"
+    },
+    {
+        "mot;": "rapport;"
+    },
+    {
+        "mot;": "rapporter;"
+    },
+    {
+        "mot;": "rare;"
+    },
+    {
+        "mot;": "rassurer;"
+    },
+    {
+        "mot;": "rayon;"
+    },
+    {
+        "mot;": "réalité;"
+    },
+    {
+        "mot;": "recevoir;"
+    },
+    {
+        "mot;": "recherche;"
+    },
+    {
+        "mot;": "réclamer;"
+    },
+    {
+        "mot;": "recommencer;"
+    },
+    {
+        "mot;": "reconnaître;"
+    },
+    {
+        "mot;": "recueillir;"
+    },
+    {
+        "mot;": "reculer;"
+    },
+    {
+        "mot;": "réduire;"
+    },
+    {
+        "mot;": "réel;"
+    },
+    {
+        "mot;": "réfléchir;"
+    },
+    {
+        "mot;": "réflexion;"
+    },
+    {
+        "mot;": "refuser;"
+    },
+    {
+        "mot;": "regard;"
+    },
+    {
+        "mot;": "regarder;"
+    },
+    {
+        "mot;": "règle;"
+    },
+    {
+        "mot;": "regretter;"
+    },
+    {
+        "mot;": "rejeter;"
+    },
+    {
+        "mot;": "rejoindre;"
+    },
+    {
+        "mot;": "relation;"
+    },
+    {
+        "mot;": "relever;"
+    },
+    {
+        "mot;": "religion;"
+    },
+    {
+        "mot;": "remarquer;"
+    },
+    {
+        "mot;": "remercier;"
+    },
+    {
+        "mot;": "remettre;"
+    },
+    {
+        "mot;": "remonter;"
+    },
+    {
+        "mot;": "remplacer;"
+    },
+    {
+        "mot;": "remplir;"
+    },
+    {
+        "mot;": "rencontre;"
+    },
+    {
+        "mot;": "rencontrer;"
+    },
+    {
+        "mot;": "rendre;"
+    },
+    {
+        "mot;": "renoncer;"
+    },
+    {
+        "mot;": "rentrer;"
+    },
+    {
+        "mot;": "renverser;"
+    },
+    {
+        "mot;": "répandre;"
+    },
+    {
+        "mot;": "repas;"
+    },
+    {
+        "mot;": "répéter;"
+    },
+    {
+        "mot;": "répondre;"
+    },
+    {
+        "mot;": "réponse;"
+    },
+    {
+        "mot;": "reposer;"
+    },
+    {
+        "mot;": "repousser;"
+    },
+    {
+        "mot;": "reprendre;"
+    },
+    {
+        "mot;": "représenter;"
+    },
+    {
+        "mot;": "réserver;"
+    },
+    {
+        "mot;": "résistance;"
+    },
+    {
+        "mot;": "résister;"
+    },
+    {
+        "mot;": "résoudre;"
+    },
+    {
+        "mot;": "respect;"
+    },
+    {
+        "mot;": "respecter;"
+    },
+    {
+        "mot;": "respirer;"
+    },
+    {
+        "mot;": "ressembler;"
+    },
+    {
+        "mot;": "reste;"
+    },
+    {
+        "mot;": "rester;"
+    },
+    {
+        "mot;": "résultat;"
+    },
+    {
+        "mot;": "retenir;"
+    },
+    {
+        "mot;": "retirer;"
+    },
+    {
+        "mot;": "retomber;"
+    },
+    {
+        "mot;": "retour;"
+    },
+    {
+        "mot;": "retourner;"
+    },
+    {
+        "mot;": "retrouver;"
+    },
+    {
+        "mot;": "réunir;"
+    },
+    {
+        "mot;": "réussir;"
+    },
+    {
+        "mot;": "rêve;"
+    },
+    {
+        "mot;": "réveiller;"
+    },
+    {
+        "mot;": "révéler;"
+    },
+    {
+        "mot;": "revenir;"
+    },
+    {
+        "mot;": "rêver;"
+    },
+    {
+        "mot;": "revoir;"
+    },
+    {
+        "mot;": "révolution;"
+    },
+    {
+        "mot;": "riche;"
+    },
+    {
+        "mot;": "rideau;"
+    },
+    {
+        "mot;": "rien;"
+    },
+    {
+        "mot;": "rire;"
+    },
+    {
+        "mot;": "rire;"
+    },
+    {
+        "mot;": "risquer;"
+    },
+    {
+        "mot;": "robe;"
+    },
+    {
+        "mot;": "roche;"
+    },
+    {
+        "mot;": "rocher;"
+    },
+    {
+        "mot;": "roi;"
+    },
+    {
+        "mot;": "rôle;"
+    },
+    {
+        "mot;": "roman;"
+    },
+    {
+        "mot;": "rompre;"
+    },
+    {
+        "mot;": "rond;"
+    },
+    {
+        "mot;": "rose;"
+    },
+    {
+        "mot;": "rose;"
+    },
+    {
+        "mot;": "rouge;"
+    },
+    {
+        "mot;": "rouge;"
+    },
+    {
+        "mot;": "rouler;"
+    },
+    {
+        "mot;": "route;"
+    },
+    {
+        "mot;": "rue;"
+    },
+    {
+        "mot;": "ruine;"
+    },
+    {
+        "mot;": "sable;"
+    },
+    {
+        "mot;": "sac;"
+    },
+    {
+        "mot;": "saint;"
+    },
+    {
+        "mot;": "saint;"
+    },
+    {
+        "mot;": "saisir;"
+    },
+    {
+        "mot;": "saison;"
+    },
+    {
+        "mot;": "salle;"
+    },
+    {
+        "mot;": "saluer;"
+    },
+    {
+        "mot;": "salut;"
+    },
+    {
+        "mot;": "sang;"
+    },
+    {
+        "mot;": "sans;"
+    },
+    {
+        "mot;": "santé;"
+    },
+    {
+        "mot;": "satisfaire;"
+    },
+    {
+        "mot;": "sauter;"
+    },
+    {
+        "mot;": "sauvage;"
+    },
+    {
+        "mot;": "sauver;"
+    },
+    {
+        "mot;": "savoir;"
+    },
+    {
+        "mot;": "savoir;"
+    },
+    {
+        "mot;": "scène;"
+    },
+    {
+        "mot;": "science;"
+    },
+    {
+        "mot;": "se;"
+    },
+    {
+        "mot;": "sec;"
+    },
+    {
+        "mot;": "second;"
+    },
+    {
+        "mot;": "seconde;"
+    },
+    {
+        "mot;": "secours;"
+    },
+    {
+        "mot;": "secret;"
+    },
+    {
+        "mot;": "secret;"
+    },
+    {
+        "mot;": "secrétaire;"
+    },
+    {
+        "mot;": "seigneur;"
+    },
+    {
+        "mot;": "sein;"
+    },
+    {
+        "mot;": "selon;"
+    },
+    {
+        "mot;": "semaine;"
+    },
+    {
+        "mot;": "semblable;"
+    },
+    {
+        "mot;": "sembler;"
+    },
+    {
+        "mot;": "sens;"
+    },
+    {
+        "mot;": "sentier;"
+    },
+    {
+        "mot;": "sentiment;"
+    },
+    {
+        "mot;": "sentir;"
+    },
+    {
+        "mot;": "séparer;"
+    },
+    {
+        "mot;": "sept;"
+    },
+    {
+        "mot;": "sérieux;"
+    },
+    {
+        "mot;": "serrer;"
+    },
+    {
+        "mot;": "service;"
+    },
+    {
+        "mot;": "servir;"
+    },
+    {
+        "mot;": "seuil;"
+    },
+    {
+        "mot;": "seul;"
+    },
+    {
+        "mot;": "seulement;"
+    },
+    {
+        "mot;": "si;"
+    },
+    {
+        "mot;": "si;"
+    },
+    {
+        "mot;": "siècle;"
+    },
+    {
+        "mot;": "siège;"
+    },
+    {
+        "mot;": "sien;"
+    },
+    {
+        "mot;": "signe;"
+    },
+    {
+        "mot;": "signer;"
+    },
+    {
+        "mot;": "signifier;"
+    },
+    {
+        "mot;": "silence;"
+    },
+    {
+        "mot;": "silencieux;"
+    },
+    {
+        "mot;": "simple;"
+    },
+    {
+        "mot;": "simplement;"
+    },
+    {
+        "mot;": "situation;"
+    },
+    {
+        "mot;": "six;"
+    },
+    {
+        "mot;": "social;"
+    },
+    {
+        "mot;": "société;"
+    },
+    {
+        "mot;": "soi;"
+    },
+    {
+        "mot;": "soin;"
+    },
+    {
+        "mot;": "soir;"
+    },
+    {
+        "mot;": "soirée;"
+    },
+    {
+        "mot;": "soit;"
+    },
+    {
+        "mot;": "sol;"
+    },
+    {
+        "mot;": "soldat;"
+    },
+    {
+        "mot;": "soleil;"
+    },
+    {
+        "mot;": "solitude;"
+    },
+    {
+        "mot;": "sombre;"
+    },
+    {
+        "mot;": "somme;"
+    },
+    {
+        "mot;": "sommeil;"
+    },
+    {
+        "mot;": "sommet;"
+    },
+    {
+        "mot;": "son;"
+    },
+    {
+        "mot;": "son;"
+    },
+    {
+        "mot;": "songer;"
+    },
+    {
+        "mot;": "sonner;"
+    },
+    {
+        "mot;": "sorte;"
+    },
+    {
+        "mot;": "sortir;"
+    },
+    {
+        "mot;": "sou;"
+    },
+    {
+        "mot;": "soudain;"
+    },
+    {
+        "mot;": "souffler;"
+    },
+    {
+        "mot;": "souffrance;"
+    },
+    {
+        "mot;": "souffrir;"
+    },
+    {
+        "mot;": "souhaiter;"
+    },
+    {
+        "mot;": "soulever;"
+    },
+    {
+        "mot;": "soumettre;"
+    },
+    {
+        "mot;": "source;"
+    },
+    {
+        "mot;": "sourd;"
+    },
+    {
+        "mot;": "sourire;"
+    },
+    {
+        "mot;": "sourire;"
+    },
+    {
+        "mot;": "sous;"
+    },
+    {
+        "mot;": "soutenir;"
+    },
+    {
+        "mot;": "souvenir;"
+    },
+    {
+        "mot;": "souvenir;"
+    },
+    {
+        "mot;": "souvent;"
+    },
+    {
+        "mot;": "spectacle;"
+    },
+    {
+        "mot;": "subir;"
+    },
+    {
+        "mot;": "succès;"
+    },
+    {
+        "mot;": "sueur;"
+    },
+    {
+        "mot;": "suffire;"
+    },
+    {
+        "mot;": "suite;"
+    },
+    {
+        "mot;": "suivant;"
+    },
+    {
+        "mot;": "suivre;"
+    },
+    {
+        "mot;": "sujet;"
+    },
+    {
+        "mot;": "supérieur;"
+    },
+    {
+        "mot;": "supporter;"
+    },
+    {
+        "mot;": "supposer;"
+    },
+    {
+        "mot;": "sur;"
+    },
+    {
+        "mot;": "sûr;"
+    },
+    {
+        "mot;": "surprendre;"
+    },
+    {
+        "mot;": "surtout;"
+    },
+    {
+        "mot;": "surveiller;"
+    },
+    {
+        "mot;": "système;"
+    },
+    {
+        "mot;": "table;"
+    },
+    {
+        "mot;": "tache;"
+    },
+    {
+        "mot;": "tâche;"
+    },
+    {
+        "mot;": "taille;"
+    },
+    {
+        "mot;": "taire;"
+    },
+    {
+        "mot;": "tant;"
+    },
+    {
+        "mot;": "tantôt;"
+    },
+    {
+        "mot;": "tapis;"
+    },
+    {
+        "mot;": "tard;"
+    },
+    {
+        "mot;": "te;"
+    },
+    {
+        "mot;": "tel;"
+    },
+    {
+        "mot;": "tellement;"
+    },
+    {
+        "mot;": "témoin;"
+    },
+    {
+        "mot;": "tempête;"
+    },
+    {
+        "mot;": "temps;"
+    },
+    {
+        "mot;": "tendre;"
+    },
+    {
+        "mot;": "tendre;"
+    },
+    {
+        "mot;": "tenir;"
+    },
+    {
+        "mot;": "tenter;"
+    },
+    {
+        "mot;": "terme;"
+    },
+    {
+        "mot;": "terminer;"
+    },
+    {
+        "mot;": "terrain;"
+    },
+    {
+        "mot;": "terre;"
+    },
+    {
+        "mot;": "terreur;"
+    },
+    {
+        "mot;": "terrible;"
+    },
+    {
+        "mot;": "tête;"
+    },
+    {
+        "mot;": "théâtre;"
+    },
+    {
+        "mot;": "tirer;"
+    },
+    {
+        "mot;": "titre;"
+    },
+    {
+        "mot;": "toi;"
+    },
+    {
+        "mot;": "toile;"
+    },
+    {
+        "mot;": "toit;"
+    },
+    {
+        "mot;": "tombe;"
+    },
+    {
+        "mot;": "tomber;"
+    },
+    {
+        "mot;": "ton;"
+    },
+    {
+        "mot;": "ton;"
+    },
+    {
+        "mot;": "tôt;"
+    },
+    {
+        "mot;": "toucher;"
+    },
+    {
+        "mot;": "toujours;"
+    },
+    {
+        "mot;": "tour;"
+    },
+    {
+        "mot;": "tourner;"
+    },
+    {
+        "mot;": "tout;"
+    },
+    {
+        "mot;": "tout;"
+    },
+    {
+        "mot;": "tout;"
+    },
+    {
+        "mot;": "tout;"
+    },
+    {
+        "mot;": "toute;"
+    },
+    {
+        "mot;": "trace;"
+    },
+    {
+        "mot;": "tracer;"
+    },
+    {
+        "mot;": "train;"
+    },
+    {
+        "mot;": "traîner;"
+    },
+    {
+        "mot;": "trait;"
+    },
+    {
+        "mot;": "traiter;"
+    },
+    {
+        "mot;": "tranquille;"
+    },
+    {
+        "mot;": "transformer;"
+    },
+    {
+        "mot;": "travail;"
+    },
+    {
+        "mot;": "travailler;"
+    },
+    {
+        "mot;": "travers;"
+    },
+    {
+        "mot;": "traverser;"
+    },
+    {
+        "mot;": "trembler;"
+    },
+    {
+        "mot;": "trente;"
+    },
+    {
+        "mot;": "très;"
+    },
+    {
+        "mot;": "trésor;"
+    },
+    {
+        "mot;": "triste;"
+    },
+    {
+        "mot;": "trois;"
+    },
+    {
+        "mot;": "troisième;"
+    },
+    {
+        "mot;": "tromper;"
+    },
+    {
+        "mot;": "trop;"
+    },
+    {
+        "mot;": "trou;"
+    },
+    {
+        "mot;": "troubler;"
+    },
+    {
+        "mot;": "trouver;"
+    },
+    {
+        "mot;": "tu;"
+    },
+    {
+        "mot;": "tuer;"
+    },
+    {
+        "mot;": "type;"
+    },
+    {
+        "mot;": "un;"
+    },
+    {
+        "mot;": "un;"
+    },
+    {
+        "mot;": "un;"
+    },
+    {
+        "mot;": "unique;"
+    },
+    {
+        "mot;": "usage;"
+    },
+    {
+        "mot;": "user;"
+    },
+    {
+        "mot;": "vague;"
+    },
+    {
+        "mot;": "vague;"
+    },
+    {
+        "mot;": "vaincre;"
+    },
+    {
+        "mot;": "valeur;"
+    },
+    {
+        "mot;": "valoir;"
+    },
+    {
+        "mot;": "vaste;"
+    },
+    {
+        "mot;": "veille;"
+    },
+    {
+        "mot;": "veiller;"
+    },
+    {
+        "mot;": "vendre;"
+    },
+    {
+        "mot;": "venir;"
+    },
+    {
+        "mot;": "vent;"
+    },
+    {
+        "mot;": "ventre;"
+    },
+    {
+        "mot;": "véritable;"
+    },
+    {
+        "mot;": "vérité;"
+    },
+    {
+        "mot;": "verre;"
+    },
+    {
+        "mot;": "vers;"
+    },
+    {
+        "mot;": "vers;"
+    },
+    {
+        "mot;": "verser;"
+    },
+    {
+        "mot;": "vert;"
+    },
+    {
+        "mot;": "vêtement;"
+    },
+    {
+        "mot;": "vêtir;"
+    },
+    {
+        "mot;": "victime;"
+    },
+    {
+        "mot;": "vide;"
+    },
+    {
+        "mot;": "vide;"
+    },
+    {
+        "mot;": "vie;"
+    },
+    {
+        "mot;": "vieil;"
+    },
+    {
+        "mot;": "vieillard;"
+    },
+    {
+        "mot;": "vieux;"
+    },
+    {
+        "mot;": "vieux;"
+    },
+    {
+        "mot;": "vif;"
+    },
+    {
+        "mot;": "village;"
+    },
+    {
+        "mot;": "ville;"
+    },
+    {
+        "mot;": "vin;"
+    },
+    {
+        "mot;": "vingt;"
+    },
+    {
+        "mot;": "violence;"
+    },
+    {
+        "mot;": "violent;"
+    },
+    {
+        "mot;": "visage;"
+    },
+    {
+        "mot;": "visible;"
+    },
+    {
+        "mot;": "vision;"
+    },
+    {
+        "mot;": "visite;"
+    },
+    {
+        "mot;": "vite;"
+    },
+    {
+        "mot;": "vivant;"
+    },
+    {
+        "mot;": "vivre;"
+    },
+    {
+        "mot;": "voici;"
+    },
+    {
+        "mot;": "voie;"
+    },
+    {
+        "mot;": "voilà;"
+    },
+    {
+        "mot;": "voile;"
+    },
+    {
+        "mot;": "voir;"
+    },
+    {
+        "mot;": "voisin;"
+    },
+    {
+        "mot;": "voisin;"
+    },
+    {
+        "mot;": "voiture;"
+    },
+    {
+        "mot;": "voix;"
+    },
+    {
+        "mot;": "vol;"
+    },
+    {
+        "mot;": "voler;"
+    },
+    {
+        "mot;": "volonté;"
+    },
+    {
+        "mot;": "votre;"
+    },
+    {
+        "mot;": "vouloir;"
+    },
+    {
+        "mot;": "vous;"
+    },
+    {
+        "mot;": "voyage;"
+    },
+    {
+        "mot;": "voyager;"
+    },
+    {
+        "mot;": "vrai;"
+    },
+    {
+        "mot;": "vraiment;"
+    },
+    {
+        "mot;": "vue;"
+    },
+    {
+        "mot;": "y;"
+    },
+    {
+        "mot;": "yeux"
+    }
+]
